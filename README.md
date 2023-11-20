@@ -10,6 +10,7 @@ Blob Tracking:
 
 설명: Blob은 이미지에서 특정 색 또는 밝기로 연결된 픽셀의 묶음을 나타냅니다. Blob Tracking은 객체 추적의 한 방법으로, 연속된 이미지 프레임에서 Blob의 위치를 추적하여 객체의 움직임을 파악합니다. 주로 컴퓨터 비전 및 영상처리에서 사용되며, 움직이는 물체를 식별하고 추적하는 데 유용합니다.
 
+https://zeta7.notion.site/zeta7/JessiArm-be431f54912b472fb7f8977e5499612d
 
 4장, Install jessiarm code
 1. jessiarm install on Jetson
